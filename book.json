@@ -1,0 +1,32 @@
+{
+  "title": "Thinking in Golang",
+  "author": "Eric Lee",
+  "description": "Golang编程思想",
+  "plugins": [
+    "advanced-emoji",
+    "anchors",
+    "copy-code-button",
+    "expandable-chapters-small",
+    "favicon",
+    "github",
+    "prism",
+    "search-plus",
+    "splitter",
+    "theme-comscore",
+    "-highlight",
+    "-lunr",
+    "-search"
+  ],
+  "pluginsConfig": {
+    "favicon": {
+      "shortcut": "assets/favicon/64px.ico",
+      "bookmark": "assets/favicon/64px.ico"
+    },
+    "github": {
+      "url": "https://github.com/li670149669/thinking-in-golang"
+    },
+    "prism": {
+      "css": ["prismjs/themes/prism-dark.css"]
+    }
+  }
+}
