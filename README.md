@@ -1,5 +1,7 @@
 # 《Thinking in Golang》
 
+[![Build Status](https://travis-ci.org/li670149669/thinking-in-golang.svg?branch=master)](https://travis-ci.org/li670149669/thinking-in-golang)
+
 写这本书的目的仅仅是为了帮助自己学习 Go 语言，加深对 Go 语言的理解。如果你喜欢本书《Thinking in Golang》，可以加入到本书的编写或纠正工作中来，具体请联系【三少丶 Email：li670149669@qq.com】,一同完善本书并帮助壮大 Go 语言在国内的学习群体，给大家提供更好的学习资源。
 
 ## 时间线
