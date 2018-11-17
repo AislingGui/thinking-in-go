@@ -1,0 +1,11 @@
+language: "node_js"
+node_js:
+ - "node"
+install:
+ - "npm install gitbook -g"
+ - "npm install -g gitbook-cli"
+script:
+ - "gitbook install"
+ - "gitbook build"
+# after_success:
+#  - "sh deploy.sh"
