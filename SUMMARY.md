@@ -62,6 +62,10 @@
   - [3 select](chapter09/3.md)
   - [4 超时与计时器](chapter09/4.md)
   - [5 同步机制](chapter09/5.md)
+- [第十章 性能分析](chapter10/README.md)
+  - [1 pprof](chapter10/1.md)
+  - [2 数据可视化](chapter10/2.md)
+  - [3 分析数据](chapter10/3.md)
 
 ## 进阶篇
 
