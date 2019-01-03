@@ -11,7 +11,7 @@
 ## 基础篇
 
 - [第一章 环境配置](chapter01/README.md)
-  - [1 安装](chapter01/1.md)
+  - [1 安装和配置](chapter01/1.md)
   - [2 编辑器](chapter01/2.md)
   - [3 辅助工具](chapter01/3.md)
   - [4 依赖管理](chapter01/4.md)
