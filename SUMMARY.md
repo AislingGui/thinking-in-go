@@ -2,12 +2,6 @@
 
 - [封面](README.md)
 
-## 前言篇
-
-- [前言 Go 语言](chapter00/README.md)
-  - [1 起源与发展](chapter00/1.md)
-  - [2 主要特性](chapter00/2.md)
-
 ## 基础篇
 
 - [第一章 环境配置](chapter01/README.md)
@@ -61,11 +55,14 @@
   - [2 通道](chapter09/2.md)
   - [3 select](chapter09/3.md)
   - [4 同步机制](chapter09/5.md)
-- [第十章 性能分析](chapter10/README.md)
-  - [1 pprof](chapter10/1.md)
-  - [2 数据可视化](chapter10/2.md)
-  - [3 分析数据](chapter10/3.md)
+  - [5 GPM 调度模型](chapter09/6.md)
+- [第十章 runtime](chapter10/README.md)
 
-## 进阶篇
+## 标准库
 
-## 高级篇
+- [反射](pkg/README.md)
+- [文件读写](pkg/README.md)
+- [网络编程](pkg/README.md)
+- [系统调用](pkg/README.md)
+- [性能分析](pkg/README.md)
+- [测试](pkg/README.md)

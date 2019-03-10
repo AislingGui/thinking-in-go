@@ -16,21 +16,9 @@
   - [ ] 函数与方法
   - [ ] 接口
   - [ ] 协程与通道
-- 进阶篇
-  - [ ] 性能分析
+  - [ ] runtime
+- 标准库
   - TODO
-- 高级篇
-  - TODO
-
-## 章节脑图
-
-![章节脑图](http://assets.processon.com/chart_image/5c2ccfbae4b0641c83cb100c.png)
-
-## 致谢
-
-参与编写人员：
-
-- [GuanJunMa](https://github.com/GuanJunMa)
 
 ## 开始阅读
 
