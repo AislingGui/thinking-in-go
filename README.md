@@ -22,5 +22,5 @@
 
 ## 开始阅读
 
-- [GitHub](https://github.com/li670149669/thinking-in-golang/blob/master/SUMMARY.md)
-- [GitBook](https://li670149669.gitbook.io/thinking-in-golang)
+- [GitHub](https://github.com/lijinglin2019/thinking-in-go/blob/master/SUMMARY.md)
+- [GitBook](https://lijinglin2019.gitbook.io/thinking-in-go)
