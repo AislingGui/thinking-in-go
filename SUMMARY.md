@@ -7,9 +7,7 @@
 - [第一章 环境配置](basic/chapter01/README.md)
   - [1 安装和配置](basic/chapter01/1.md)
   - [2 编辑器](basic/chapter01/2.md)
-  - [3 辅助工具](basic/chapter01/3.md)
-  - [4 依赖管理](basic/chapter01/4.md)
-  - [5 项目管理](basic/chapter01/5.md)
+  - [3 常用工具](basic/chapter01/3.md)
 - [第二章 基础结构](basic/chapter02/README.md)
   - [1 声明和赋值](basic/chapter02/1.md)
   - [2 常量和变量](basic/chapter02/2.md)
@@ -58,13 +56,22 @@
 
 ## 进阶篇
 
+- [测试](advanced/README.md)
 - [反射](advanced/README.md)
 - [文件读写](advanced/README.md)
 - [网络编程](advanced/README.md)
 - [系统调用](advanced/README.md)
+- [上下文](advanced/README.md)
 - [性能分析](advanced/README.md)
-- [测试](advanced/README.md)
 
 ## 高级篇
 
 - [runtime](Internal/README.md)
+
+## 番外篇
+
+- [Go 工具链](others/chapter01/README.md)
+- [项目管理](others/chapter02/README.md)
+  - [项目结构](others/chapter02/1.md)
+  - [依赖管理](others/chapter02/2.md)
+- [调试](others/chapter03/README.md)
