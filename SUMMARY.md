@@ -7,7 +7,7 @@
 - [第一章 环境配置](basic/chapter01/README.md)
   - [1 安装和配置](basic/chapter01/1.md)
   - [2 编辑器](basic/chapter01/2.md)
-  - [3 常用工具](basic/chapter01/3.md)
+  - [3 第一个 Go 程序](basic/chapter01/3.md)
 - [第二章 基础结构](basic/chapter02/README.md)
   - [1 声明和赋值](basic/chapter02/1.md)
   - [2 常量和变量](basic/chapter02/2.md)
