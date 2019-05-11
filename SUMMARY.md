@@ -56,6 +56,9 @@
 
 ## 进阶篇
 
+- [Go 工具链](advanced/README.md)
+- [项目管理](advanced/README.md)
+- [调试](advanced/README.md)
 - [测试](advanced/README.md)
 - [反射](advanced/README.md)
 - [文件读写](advanced/README.md)
@@ -64,14 +67,6 @@
 - [上下文](advanced/README.md)
 - [性能分析](advanced/README.md)
 
-## 高级篇
+## 源码篇
 
 - [runtime](Internal/README.md)
-
-## 番外篇
-
-- [Go 工具链](others/chapter01/README.md)
-- [项目管理](others/chapter02/README.md)
-  - [项目结构](others/chapter02/1.md)
-  - [依赖管理](others/chapter02/2.md)
-- [调试](others/chapter03/README.md)
