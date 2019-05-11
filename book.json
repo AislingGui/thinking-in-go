@@ -1,7 +1,7 @@
 {
-  "title": "Thinking in Golang",
+  "title": "Thinking in Go",
   "author": "Eric Lee",
-  "description": "Golang编程思想",
+  "description": "Go编程思想",
   "plugins": [
     "advanced-emoji",
     "anchors",
@@ -23,7 +23,7 @@
       "bookmark": "assets/favicon/64px.ico"
     },
     "github": {
-      "url": "https://github.com/li670149669/thinking-in-golang"
+      "url": "https://github.com/lijinglin2019/thinking-in-go"
     },
     "prism": {
       "css": ["prismjs/themes/prism-dark.css"]
