@@ -1,11 +1,7 @@
-language: "node_js"
-node_js:
- - "node"
+language: ruby
+rvm:
+  - 2.2
 install:
- - "npm install gitbook -g"
- - "npm install -g gitbook-cli"
+  - gem install mdl
 script:
- - "gitbook install"
- - "gitbook build"
-# after_success:
-#  - "sh deploy.sh"
+  - find . -type f -name "*.md" | xargs mdl
