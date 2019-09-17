@@ -1,6 +1,9 @@
 language: ruby
+dist: bionic
 rvm:
-  - 2.2
+  - truffleruby
+before_install:
+  - gem update --system
 install:
   - gem install mdl
 script:
